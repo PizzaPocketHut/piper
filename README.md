@@ -12,7 +12,14 @@ Neofetch - View information about your system with pretty ASCII art!
 HTop - User-friendly task manager inside your terminal.                      
 
 # Installation
-Run install.sh and you're done!
+First, clone the repo.
+```
+git clone https://github.com/PizzaPocketHut/piper.git
+```
+Then, run install.sh.
+```
+cd piper; ./install.sh
+```
 
 # Changelog
 v1.1.0 - Bugfixes and better installer.
