@@ -212,7 +212,7 @@ case $MENU in
     then
         clear
         exit
-        echo "From yours truly, ${RED}PizzaPocketHut${NOCOLOR}.
+        echo "From yours truly, ${RED}PizzaPocketHut${NOCOLOR}."
     elif [ $EXIT == "Y" ]
     then
         clear
