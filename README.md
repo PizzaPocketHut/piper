@@ -12,6 +12,6 @@ Neofetch - View information about your system with pretty ASCII art!
 HTop - User-friendly task manager inside your terminal.                      
 
 # Changelog
-v1.1 - Bugfixes and better installer.
+v1.1.0 - Bugfixes and better installer.
 
-v1.0 - Piper is released! Yay!
+v1.0.0 - Piper is released! Yay!
