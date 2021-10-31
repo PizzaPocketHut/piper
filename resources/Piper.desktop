@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon=/usr/share/icons/piper-icon.png
+Icon[en_US]=/usr/share/icons/piper-icon.png
+Name[en_US]=Piper
+Exec=piper
+Comment[en_US]=Piper Terminal Deck
+Name=Piper
+Comment=Piper Terminal Deck
