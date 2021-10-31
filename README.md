@@ -22,6 +22,8 @@ cd piper; ./install.sh
 ```
 
 # Changelog
+v1.2.0 - Added new program TINT! (command line tetris)
+
 v1.1.0 - Bugfixes and better installer.
 
 v1.0.0 - Piper is released! Yay!
