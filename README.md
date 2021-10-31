@@ -11,6 +11,9 @@ Config Editor - Edit you Pi's config.txt without digging through a file explorer
 Neofetch - View information about your system with pretty ASCII art!                          
 HTop - User-friendly task manager inside your terminal.                      
 
+# Installation
+Run install.sh and you're done!
+
 # Changelog
 v1.1.0 - Bugfixes and better installer.
 
